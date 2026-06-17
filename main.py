@@ -30,7 +30,7 @@ estoque_laboratorio = [
     {
         "id": 3,
         "nome": "Esteira de academia usada",
-        "quantidade": 68,
+        "quantidade": 689,
         "categoria": "Mecânica",
         "estado_conservacao": "Regular"
     }
